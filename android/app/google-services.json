@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367139707502",
+    "project_id": "projeto-plantas-josue",
+    "storage_bucket": "projeto-plantas-josue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367139707502:android:8ed56d91a618a8f36ba47f",
+        "android_client_info": {
+          "package_name": "com.example.josues_plants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367139707502-jcpgav7uan6nm6hk7nvkhmvqqf7b9fdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQSeLr0T14Hld9zd4UoCXH2beoLqtm8OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367139707502-jcpgav7uan6nm6hk7nvkhmvqqf7b9fdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
